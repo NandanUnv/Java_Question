@@ -1,1 +1,39 @@
+Problem Statement
 
+Sarah is a historian working on organizing a series of historical events that are recorded only by their occurrence dates She needs a program that can sort these dates in ascending order to help her understand the chronological progression of these events. Each dote is given as three integers representing the day, month, and year.
+
+Your task is to develop a program that reads a list of dates and outputs them sorted from the earliest to the latest
+
+Input format:
+
+The first line consists of an integer N, representing the number of dates.
+
+The following lines contain the respective dotes as space-separated integers in dd mm yyyy format.
+
+Output format:
+
+The output prints N lines, each containing three integers day, month, and year, separated by spaces, representing the dates sorted in ascending order.
+
+Refer to the sample output for the formatting specifications.
+
+Code constraints:
+
+In this scenario, the test cases fall under the following constraints:
+1<= N <=20
+
+Sample test cases:
+
+Input:
+5
+20 04 2016
+15 06 2018
+11 09 2019
+30 04 1992
+16 11 2000
+
+Output:
+30 04 1992
+16 11 2000
+20 04 2016
+15 06 2018
+11 09 2019
