@@ -1,6 +1,8 @@
 Problem Statement
 
-Sarah is a historian working on organizing a series of historical events that are recorded only by their occurrence dates She needs a program that can sort these dates in ascending order to help her understand the chronological progression of these events. Each dote is given as three integers representing the day, month, and year.
+Sarah is a historian working on organizing a series of historical events that are recorded only by their occurrence dates 
+She needs a program that can sort these dates in ascending order to help her understand the chronological progression of these events. 
+Each dote is given as three integers representing the day, month, and year.
 
 Your task is to develop a program that reads a list of dates and outputs them sorted from the earliest to the latest
 
@@ -12,7 +14,8 @@ The following lines contain the respective dotes as space-separated integers in 
 
 Output format:
 
-The output prints N lines, each containing three integers day, month, and year, separated by spaces, representing the dates sorted in ascending order.
+The output prints N lines, each containing three integers day, month, and year, separated by spaces, representing the dates 
+sorted in ascending order.
 
 Refer to the sample output for the formatting specifications.
 
